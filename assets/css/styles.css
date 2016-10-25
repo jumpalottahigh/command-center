@@ -1,0 +1,22 @@
+a {
+  color: #0275d8;
+}
+
+a:hover {
+  color: #5cb85c;
+  text-decoration: none;
+}
+
+.card {
+  min-height: 100%;
+}
+
+.card img {
+  height: 35px;
+  /*max-height: 35px;*/
+}
+
+.card .card-logo {
+  border-bottom: 1px solid #cecece;
+  padding-bottom: 1rem!important;
+}

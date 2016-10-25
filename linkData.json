@@ -1,0 +1,47 @@
+[{
+  "link": "https://console.firebase.google.com/",
+  "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+  "heading": "Firebase Console",
+  "paragraph": "Console of the Google built realtime database service."
+}, {
+  "link": "https://dashboard.heroku.com/",
+  "image": "https://d3k90kvix375hb.cloudfront.net/assets/logo-purple-08fb38cebb99e3aac5202df018eb337c5be74d5214768c90a8198c97420e4201.svg",
+  "heading": "Heroku Dashboard",
+  "paragraph": "Dashboard for Heroku app and hosting service."
+}, {
+  "link": "https://analytics.google.com/",
+  "image": "https://ssl.gstatic.com/analytics/header/legacy/v1/ic_analytics.svg",
+  "heading": "Google Analytics",
+  "paragraph": "Dashboard and control panel for Google Analytics."
+}, {
+  "link": "http://caniuse.com",
+  "image": "http://caniuse.com/img/favicon-128.png",
+  "heading": "Can I use?",
+  "paragraph": "Browser feature check up engine."
+}, {
+  "link": "https://www.diffchecker.com/",
+  "image": "https://www.diffchecker.com/images/logo.png",
+  "heading": "Diff Checker",
+  "paragraph": "Online text diff tool."
+}, {
+  "link": "https://www.mockaroo.com/",
+  "image": "https://www.mockaroo.com/assets/favicon-8d320ac46812befcc8e0c5388550bd14d2105f78bb354728e63dd50d9e345ede.png",
+  "heading": "Mockaroo",
+  "paragraph": "Realistic dev sample data generator."
+}, {
+  "link": "http://www.webpagefx.com/tools/emoji-cheat-sheet/",
+  "image": "http://www.webpagefx.com/tools/emoji-cheat-sheet/favicon.ico",
+  "heading": "Emoji Cheatsheet",
+  "paragraph": "Supported emojis on Github, Trello, Slack and more."
+}, {
+  "link": "http://realfavicongenerator.net/",
+  "image": "http://realfavicongenerator.net/realfavicongenerator_brand.png",
+  "heading": "Favicon Generator",
+  "paragraph": "All devices, all platforms."
+}, {
+  "link": "https://www.creately.com/app/",
+  "image": "http://creately.com/themes/creately/images/new/creately-logo.png",
+  "heading": "Creately",
+  "paragraph": "Online diagram drawing."
+}
+]
