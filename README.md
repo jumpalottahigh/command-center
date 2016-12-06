@@ -1,4 +1,4 @@
-# :pager: <span style="color: yellowgreen">Command Center</span>
+# :pager: Command Center
 Fast web dev links and optimized workflow.
 
 A simple miniapp built with Vue.js, Bootstrap4 and jQuery3.
